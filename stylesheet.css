@@ -50,7 +50,7 @@ h1 {
     display: flex;
     flex-flow: column nowrap;
     width: 600px;
-    height: 400;
+    height: 400px;
     max-width: 50%;
     margin-left: 50px;
 }
